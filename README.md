@@ -40,7 +40,11 @@ npm start
 # Endpoints
 
 - /home - Home page
-- /todo - Page with all of the logic of todos
-- /about - About pages
 - /login - Login page
 - /register - Register page
+- /categories - Page with a list of your accounting categories
+- /detail-record - Page with a detailed information about the record
+- /history - Page with the history of your losses and gains
+- /planning - Page with your financial plans
+- /profile - Page with your profile
+- /record - Page where you can watch for your records by id
